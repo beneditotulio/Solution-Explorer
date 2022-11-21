@@ -1,0 +1,192 @@
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\bin\Debug\sistema de gestao stock.exe.config
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\bin\Debug\sistema de gestao stock.exe
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\bin\Debug\sistema de gestao stock.pdb
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Form1.resources
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Properties.Resources.resources
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.categoria.resources
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.fornecedor.resources
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.frm_menu_cadastro.resources
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.encomenda.resources
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.produto.resources
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.Menu.resources
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.Produtos.resources
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.tipo_doc.resources
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.unidade.resources
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema de gestao stock.csproj.GenerateResource.Cache
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema de gestao stock.exe
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema de gestao stock.pdb
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema de gestao stock.csprojAssemblyReference.cache
+C:\Users\Analista Programador\Documents\Visual Studio 2015\Projects\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema de gestao stock.csproj.CoreCompileInputs.cache
+D:\sistema de gestao stock\sistema de gestao stock\bin\Debug\sistema de gestao stock.exe.config
+D:\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema de gestao stock.exe
+D:\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema de gestao stock.pdb
+D:\sistema de gestao stock\sistema de gestao stock\bin\Debug\sistema de gestao stock.exe
+D:\sistema de gestao stock\sistema de gestao stock\bin\Debug\sistema de gestao stock.pdb
+D:\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Form1.resources
+D:\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Properties.Resources.resources
+D:\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.categoria.resources
+D:\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.fornecedor.resources
+D:\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.frm_menu_cadastro.resources
+D:\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.encomenda.resources
+D:\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.produto.resources
+D:\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.Menu.resources
+D:\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.Produtos.resources
+D:\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.tipo_doc.resources
+D:\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.unidade.resources
+D:\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema de gestao stock.csproj.GenerateResource.cache
+D:\sistema de gestao stock\sistema de gestao stock\obj\Debug\sistema de gestao stock.csprojResolveAssemblyReference.cache
+D:\sistema de gestao stock1\sistema de gestao stock\bin\Debug\sistema de gestao stock.exe.config
+D:\sistema de gestao stock1\sistema de gestao stock\bin\Debug\sistema de gestao stock.exe
+D:\sistema de gestao stock1\sistema de gestao stock\bin\Debug\sistema de gestao stock.pdb
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Form1.resources
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Properties.Resources.resources
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.categoria.resources
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.fornecedor.resources
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.frm_menu_cadastro.resources
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.encomenda.resources
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.produto.resources
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.Menu.resources
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.Produtos.resources
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.Requisicao.resources
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.tipo_doc.resources
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.unidade.resources
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csproj.GenerateResource.cache
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csproj.CoreCompileInputs.cache
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.exe
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.pdb
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csprojAssemblyReference.cache
+D:\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csproj.ResolveComReference.cache
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\bin\Debug\sistema de gestao stock.exe.config
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\bin\Debug\sistema de gestao stock.exe
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\bin\Debug\sistema de gestao stock.pdb
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csprojAssemblyReference.cache
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csproj.ResolveComReference.cache
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Form1.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Properties.Resources.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.categoria.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.fornecedor.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.frm_menu_cadastro.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.encomenda.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.produto.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.Menu.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.Produtos.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.tipo_doc.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.unidade.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csproj.GenerateResource.cache
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csproj.CoreCompileInputs.cache
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.exe
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.pdb
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.frm_Requisicao.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.cliente.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.produtos.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.user.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.funcionario.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.encomenda.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.cliente.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.Requisicao.resources
+D:\Programacao\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.fornecedor.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\bin\Debug\sistema de gestao stock.exe.config
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csproj.ResolveComReference.cache
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.exe
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.pdb
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\bin\Debug\sistema de gestao stock.exe
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\bin\Debug\sistema de gestao stock.pdb
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Form1.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.produtos.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.categoria.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.fornecedor.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.frm_menu_cadastro.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.Menu.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.Produtos.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.frm_Requisicao.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.user.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmMenuPrincipal.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.AboutBox1.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmCliente.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmFuncionario.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmListagemCliente.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmEncomenda.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmListagemFornecedor.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmListagemRequisicao.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmListagemFuncionario.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmCadastroEncomenda.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmTipoDoc.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmCadastroUnidade.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmControlaStock.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmJogoArtigos.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmLogin.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Relatorio.FrmBuscaRelatorio.resources
+C:\Users\TOSHIBA\Desktop\Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Vendas.FrmVendas.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\bin\Debug\sistema de gestao stock.exe.config
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csproj.ResolveComReference.cache
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.exe
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.pdb
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\bin\Debug\sistema de gestao stock.exe
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\bin\Debug\sistema de gestao stock.pdb
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Form1.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmListagemCliente.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmEncomenda.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmListagemFornecedor.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmJogoArtigos.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmListagemFuncionario.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.produtos.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmListagemRequisicao.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Relatorio.FrmBuscaRelatorio.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.AboutBox1.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.categoria.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmCliente.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.fornecedor.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmControlaStock.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmLogin.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmMenuPrincipal.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.frm_menu_cadastro.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmCadastroEncomenda.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmFuncionario.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.Menu.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.Produtos.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.frm_Requisicao.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmTipoDoc.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmCadastroUnidade.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.user.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Vendas.FrmVendas.resources
+C:\Users\TOSHIBA\Desktop\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csproj.GenerateResource.Cache
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\bin\Debug\sistema de gestao stock.exe.config
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csproj.ResolveComReference.cache
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.exe
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.pdb
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\bin\Debug\sistema de gestao stock.exe
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\bin\Debug\sistema de gestao stock.pdb
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Form1.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmListagemCliente.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmEncomenda.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmListagemFornecedor.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmJogoArtigos.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmListagemFuncionario.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.produtos.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.listagens.FrmListagemRequisicao.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Properties.Resources.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Relatorio.FrmBuscaRelatorio.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.AboutBox1.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.categoria.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmCliente.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.fornecedor.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmControlaStock.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmLogin.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmMenuPrincipal.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.frm_menu_cadastro.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmCadastroEncomenda.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmFuncionario.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.Menu.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.Produtos.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.frm_Requisicao.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmTipoDoc.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.FrmCadastroUnidade.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Telas.user.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema_de_gestao_stock.Vendas.FrmVendas.resources
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csproj.GenerateResource.Cache
+E:\SOLUTION EXPLORER\Shelsia Vendas\Shelsia Vendas\sistema de gestao stock1\sistema de gestao stock1\sistema de gestao stock\obj\Debug\sistema de gestao stock.csprojResolveAssemblyReference.cache
